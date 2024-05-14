@@ -1,0 +1,80 @@
+* {
+  margin-left: 10px;
+}
+
+.format-pagina {
+  background-color: rgb(253, 248, 240);
+  width: 570px;
+  padding: 40px;
+
+  border: solid;
+  border-color: rgb(197, 235, 236);
+  border-bottom-width: 10px;
+  border-bottom-style: groove;
+}
+
+h1 {
+  background-color: rgb(197, 235, 236);
+  width: 540px;
+}
+
+h1 span {
+  color: rgb(44, 100, 221);
+}
+
+table {
+  border-bottom: solid;
+  border-bottom-color: rgb(197, 235, 236);
+  border-bottom-width: 8px;
+  border-bottom-style: groove;
+}
+
+h2 {
+  color: rgb(44, 100, 221);
+  background-color: rgb(197, 235, 236);
+  width: 540px;
+}
+
+p {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+dt {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(33, 92, 180);
+}
+
+dd {
+  width: 400px;
+  padding-top: 10px;
+  padding-left: 80px;
+  text-align: justify;
+}
+
+dd span {
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(33, 92, 180);
+  margin-left: 60px;
+  margin-bottom: 10px;
+}
+
+ul li {
+  width: 400px;
+  margin-left: 100px;
+}
+
+#nota-aditionala {
+  width: 400px;
+  margin-left: 150px;
+  margin-top: -10px;
+  color: gray;
+  font-size: 12px;
+  font-weight: lighter;
+}
